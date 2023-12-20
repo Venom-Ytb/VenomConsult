@@ -50,6 +50,8 @@ git clone https://github.com/Venom-Ytb/VenomConsult
 
 cd VenomConsult
 
+node pasta.js
+
 sh instalar.sh
 ```
 
