@@ -7,6 +7,7 @@
     </a>
 </p>
 
+
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
@@ -35,6 +36,7 @@
         />
     </a>
 </p>
+
 Use os comandos abaixo para fazer a instalação do painel
 copie cada comando em ordem e cole no seu terminal linux
 
@@ -68,11 +70,15 @@ sh venom.sh
             alt="Typing SVG"
         />
     </a>
-</p>  
+</p>
+
 Dúvidas 💨
 
 ```bash     
 caso duvidas entre em contato! Clique Em Cima
+```
+```markdown
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)]("https://YouTube.com/@VenomModss")
 ```
 
 <div align="center">
@@ -99,10 +105,10 @@ https://wa.me/559784388524
 </div>
 <p align="center">
   <h4 align="center">           
-      
-```markdown
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)]("https://YouTube.com/@VenomModss")
-```
+ Canal do YouTube 
+ Para adicionar o ícone do YouTube ao seu README.md, use a seguinte sintaxe:
+
+
 
 https://YouTube.com/@VenomModss
 
