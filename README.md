@@ -57,16 +57,18 @@ sh venom.sh
     <img title="Grupo De Bots" src="https://img.shields.io/badge/Grupo%20De%20Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
+
 <a href="https://www.instagram.com/venom">
     <img title="Instagram Do Venom Mods" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 
 <a href="https://www.instagram.com/venom">
     <img title="Instagram Da Kuromi Mods" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 
-```html
+
 <button onclick="copyToClipboard('97984388524')">
     <img title="Chave Pix" src="https://img.shields.io/badge/Chave%20Pix-97984388524-yellow?style=for-the-badge" />
 </button>
@@ -80,5 +82,4 @@ function copyToClipboard(text) {
   document.execCommand('copy');
   document.body.removeChild(el);
 }
-</script>
-```
+</script
