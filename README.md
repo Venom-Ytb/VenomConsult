@@ -66,4 +66,19 @@ sh venom.sh
 </a>
 
 
-https://img.shields.io/badge/Chave%20Pix%20Do%20Venom-97984388524-yellow?style=for-the-badge)](javascript:void(0);
+```html
+<button onclick="copyToClipboard('97984388524')">
+    <img title="Chave Pix" src="https://img.shields.io/badge/Chave%20Pix-97984388524-yellow?style=for-the-badge" />
+</button>
+
+<script>
+function copyToClipboard(text) {
+  const el = document.createElement('textarea');
+  el.value = text;
+  document.body.appendChild(el);
+  el.select();
+  document.execCommand('copy');
+  document.body.removeChild(el);
+}
+</script>
+```
