@@ -73,7 +73,6 @@ sh venom.sh
     Chave Pix do Venom
 </button>
 
-<script>
 function copyToClipboard(text) {
   const el = document.createElement('textarea');
   el.value = text;
@@ -82,5 +81,4 @@ function copyToClipboard(text) {
   document.execCommand('copy');
   document.body.removeChild(el);
 }
-</script>
 
