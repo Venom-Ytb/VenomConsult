@@ -34,7 +34,7 @@
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🔍+Instalação+🔍"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=📃+Instalação+📃"
             alt="Typing SVG"
         />
     </a>
@@ -56,7 +56,7 @@ sh instalar.sh
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🔍+Reativação+🔍"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=✔️+Reativação+✔️"
             alt="Typing SVG"
         />
     </a>
@@ -69,7 +69,7 @@ cd VenomConsult
 
 sh venom.sh
 ```
-div>
+</div>
     <p align="center">
         <a href="https://YouTube.com/@VenomKuromi"><img title="Canal Do YouTube" src="https://img.shields.io/badge/Canal Secundário-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
     </p>
@@ -103,7 +103,7 @@ Pix Da Kuromi 🔑 kuromimodder@gmail.com
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=400&lines=Obrigado+por+usar+este+painel+❤️"
+            src="https://readme-typing-svg.herokuapp.com?size=80&width=400&lines=By+Venom+❤️"
             alt="Typing SVG"
         />
     </a>
