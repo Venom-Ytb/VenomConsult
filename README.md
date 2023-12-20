@@ -25,13 +25,13 @@
 
 </div>
 <p align="center">
-   <a href="https://github.com/Venom-ofc/VenomBot-md"><img title="Venom Consult" src="https://img.shields.io/badge/Feito por Venom Mods-red.svg?style=for-the-badge&logo=github" /></a>
+   <a href="https://github.com/Venom-ofc/VenomBot-md"><img title="Canal Do YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://YouTube.com/@VenomModss" /></a>
   <h4 align="center">
   
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=⚡+Instalação+⚡"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=⚡Instalação⚡"
             alt="Typing SVG"
         />
     </a>
@@ -74,6 +74,3 @@ sh venom.sh
 
 Redes sociais 💨
   
-```markdown
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://YouTube.com/@VenomModss)
-```
