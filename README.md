@@ -72,70 +72,8 @@ sh venom.sh
     </a>
 </p>
 
-Dúvidas 💨
-
-```bash     
-caso duvidas entre em contato! Clique Em Cima
-```
+Redes sociais 💨
+  
 ```markdown
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)]("https://YouTube.com/@VenomModss")
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://YouTube.com/@VenomModss)
 ```
-
-<div align="center">
-</div>
-<p align="center">
-  <h4 align="center">       
-Meu grupo do Whatsapp tudo sobre bot👤
-https://chat.whatsapp.com/LtjFqe7AEKtKMLeyyHWqrY
-
-<div align="center">
-</div>
-<p align="center">
-  <h4 align="center">           
-  Contato do WhatsApp 👤
-https://wa.me/559784388524
-
-<div align="center">
-</div>
-<p align="center">
-  <h4 align="center">       
-🎈Redes sociais 🎈
-
-<div align="center">
-</div>
-<p align="center">
-  <h4 align="center">           
- Canal do YouTube 
- Para adicionar o ícone do YouTube ao seu README.md, use a seguinte sintaxe:
-
-
-
-https://YouTube.com/@VenomModss
-
-<div align="center">
-</div>
-<p align="center">
-  <h4 align="center">       
-Canal da Kuromi 
-https://YouTube.com/@VenomModss
-
-<div align="center">
-</div>
-<p align="center">
-  <h4 align="center">           
-Instagram 
-https://Instagram.com/venom_mods_ofc
-
-<div align="center">
-</div>
-<p align="center">
-  <h4 align="center">           
-═[🎈Baixar Termux 117 ( Clique )🎈]═
-https://www.mediafire.com/file/plyu1fbkc9hpss4/Termux_117.apk/file
-
-<div align="center">
-</div>
-<p align="center">
-  <h4 align="center">           
-═[🎈Baixar Acode Pro ( Clique )🎈]═
-https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file
