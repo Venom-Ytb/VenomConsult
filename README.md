@@ -72,7 +72,8 @@ caso o termux fechar
 
 ```bash
 cd VenomConsult
-
+```
+```bash
 sh venom.sh
 ```
 </div>
@@ -103,6 +104,8 @@ sh venom.sh
 
 ```bash
 Pix Do Venom 🔑 97984388524
+```
+```bash
 Pix Da Kuromi 🔑 kuromimodder@gmail.com
 ```
 
