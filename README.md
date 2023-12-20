@@ -73,6 +73,8 @@ sh venom.sh
     <img title="Chave Pix" src="https://img.shields.io/badge/Chave%20Pix-97984388524-yellow?style=for-the-badge" />
 </button>
 
+
+
 <script>
 function copyToClipboard(text) {
   const el = document.createElement('textarea');
