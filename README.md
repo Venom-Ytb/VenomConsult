@@ -24,11 +24,12 @@
     </p>
 </div>
 
-div>
+<div>
     <p align="center">
         <a href="https://YouTube.com/@VenomModss"><img title="Canal Do YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
     </p>
 </div>
+
 
 Use os comandos abaixo para fazer a instalação do painel
 copie cada comando em ordem e cole no seu terminal linux
