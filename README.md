@@ -37,6 +37,7 @@
 </p>
 Use os comandos abaixo para fazer a instalação do painel
 copie cada comando em ordem e cole no seu terminal linux
+
 ```bash
 pkg install git 
 
@@ -49,6 +50,7 @@ sh instalar.sh
 
 Use os comandos abaixo para ligar painel
 caso o termux fechar
+
 ```bash
 cd VenomConsult
 
@@ -72,6 +74,7 @@ Dúvidas 💨
 ```bash     
 caso duvidas entre em contato! Clique Em Cima
 ```
+
 <div align="center">
 </div>
 <p align="center">
@@ -96,9 +99,7 @@ https://wa.me/559784388524
 </div>
 <p align="center">
   <h4 align="center">           
- Canal do YouTube 
- Para adicionar o ícone do YouTube ao seu README.md, use a seguinte sintaxe:
-
+      
 ```markdown
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)]("https://YouTube.com/@VenomModss")
 ```
