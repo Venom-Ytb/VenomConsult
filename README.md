@@ -45,13 +45,17 @@ copie cada comando em ordem e cole no seu terminal linux
 
 ```bash
 pkg install git 
-
+```
+```bash
 git clone https://github.com/Venom-Ytb/VenomConsult
-
+```
+```bash
 cd VenomConsult
-
+```
+```bash
 node pasta.js
-
+```
+```bash
 sh instalar.sh
 ```
 
