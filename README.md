@@ -34,7 +34,7 @@
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🔍 Instalação 🔍"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🔍+Instalação+🔍"
             alt="Typing SVG"
         />
     </a>
@@ -56,7 +56,7 @@ sh instalar.sh
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🔍 Reativação 🔍"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🔍+Reativação+🔍"
             alt="Typing SVG"
         />
     </a>
@@ -103,7 +103,7 @@ Pix Da Kuromi 🔑 kuromimodder@gmail.com
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=Obrigado por usar este painel ❤️"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=400&lines=Obrigado+por+usar+este+painel+❤️"
             alt="Typing SVG"
         />
     </a>
