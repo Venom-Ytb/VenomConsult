@@ -52,3 +52,7 @@ cd VenomConsult
 
 sh venom.sh
 ```
+
+```markdown
+[![Grupo De Bots](https://img.shields.io/badge/Grupo%20De%20Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/H26AVUTU5YEZG1)
+```
