@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🔍+Melhor+Painel+De+Consultas+🔍"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🔍+Melhor+Painel+🔍"
             alt="Typing SVG"
         />
     </a>
@@ -30,38 +30,29 @@
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=⚡+Ajuda+sobre+o+bot+⚡"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=⚡+Instalação+⚡"
             alt="Typing SVG"
         />
     </a>
 </p>
-O painel de consultas 100% atualizado para terminal linux desenvolvimento em beta.
-
+Use os comandos abaixo para fazer a instalação do painel
+copie cada comando em ordem e cole no seu terminal linux
 ```bash
-Consultas Disponível 🔍
-╭━━━━━━━━━━━ 
-┠≽[1] Consultar Telefone 1
-┠≽[2] Consultar Telefone 2
-┠≽[3] Consultar Telefone 3
-┠≽[4] Consultar Cpf 
-┠≽[5] Consultar Cpf1
-┠≽[6] Consultar Cpf2
-┠≽[7] Consultar Cpf3
-┠≽[8] Consultar Cpf4
-┠≽[9] Consultar Score
-┠≽[10] Consultar Rg
-┠≽[11] Consultar Cnpj
-┠≽[12] Consultar Bin
-┠≽[13] Consultar Bank
-┠≽[14] Consultar Moradores
-┠≽[15] Consultar IP
-┠≽[16] Consultar DDD
-┠≽[17] Consultar Cep
-┠≽[18] Consultar Nome
-┠≽[19] Consultar Placa
-┠≽[20] Consultar Mãe 
-┠≽[21] Consultar Pai
-╰━━━━━━━━━━━
+pkg install git 
+
+git clone https://github.com/Venom-Ytb/VenomConsult
+
+cd VenomConsult
+
+sh instalar.sh
+```
+
+Use os comandos abaixo para ligar painel
+caso o termux fechar
+```bash
+cd VenomConsult
+
+sh venom.sh
 ```
 
 <div align="center">
@@ -106,6 +97,12 @@ https://wa.me/559784388524
 <p align="center">
   <h4 align="center">           
  Canal do YouTube 
+ Para adicionar o ícone do YouTube ao seu README.md, use a seguinte sintaxe:
+
+```markdown
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)]("https://YouTube.com/@VenomModss")
+```
+
 https://YouTube.com/@VenomModss
 
 <div align="center">
@@ -121,3 +118,17 @@ https://YouTube.com/@VenomModss
   <h4 align="center">           
 Instagram 
 https://Instagram.com/venom_mods_ofc
+
+<div align="center">
+</div>
+<p align="center">
+  <h4 align="center">           
+═[🎈Baixar Termux 117 ( Clique )🎈]═
+https://www.mediafire.com/file/plyu1fbkc9hpss4/Termux_117.apk/file
+
+<div align="center">
+</div>
+<p align="center">
+  <h4 align="center">           
+═[🎈Baixar Acode Pro ( Clique )🎈]═
+https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file
