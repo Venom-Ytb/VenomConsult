@@ -70,9 +70,9 @@ cd VenomConsult
 sh venom.sh
 ```
 </div>
-    <p align="center">
-        <a href="https://YouTube.com/@VenomKuromi"><img title="Canal Do YouTube" src="https://img.shields.io/badge/Canal Secundário-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-    </p>
+        <a href="https://YouTube.com/@VenomKuromi">
+        <img title="Canal Do YouTube" src="https://img.shields.io/badge/Canal Secundário-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+    </a>
 </div>
 <div>
     <a href="https://chat.whatsapp.com/Eig4z1Oar9C9Yl58ro7T3n">
@@ -81,7 +81,7 @@ sh venom.sh
 </div>
 <div>
     <a href="https://www.instagram.com/venom_mods_ofc">
-        <img title="Instagram Do Venom Mods" src="https://img.shields.io/badge/Instagram Do Venom Mod-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
+        <img title="Instagram Do Venom Mods" src="https://img.shields.io/badge/Instagram Do Venom Mods-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </div>
 <div>
@@ -103,7 +103,7 @@ Pix Da Kuromi 🔑 kuromimodder@gmail.com
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=80&width=400&lines=By+Venom+❤️"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=By+Venom+❤️"
             alt="Typing SVG"
         />
     </a>
