@@ -65,20 +65,5 @@ sh venom.sh
     <img title="Instagram Da Kuromi Mods" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<button onclick="copyToClipboard('97984388524')">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-        <path d="M12 2l-6 6h4v10h4V8h4L12 2zm-6 16V8h4v10H6zm12-2h-2V8h2v8z"/>
-        <path d="M0 0h24v24H0z" fill="none"/>
-    </svg>
-    Chave Pix do Venom
-</button>
 
-function copyToClipboard(text) {
-  const el = document.createElement('textarea');
-  el.value = text;
-  document.body.appendChild(el);
-  el.select();
-  document.execCommand('copy');
-  document.body.removeChild(el);
-}
-
+https://img.shields.io/badge/Chave%20Pix%20Do%20Venom-97984388524-yellow?style=for-the-badge)](javascript:void(0);
