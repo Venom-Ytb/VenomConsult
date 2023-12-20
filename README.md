@@ -70,11 +70,11 @@ sh venom.sh
 </div>
 <div>
     <button onclick="copyToClipboard('Chaves pix abaixo 🔑')">
-        <img title="Caso queira Doar🥺" src="https://img.shields.io/badge/Chave%20Pix-97984388524-yellow?style=for-the-badge" />
+        <img title="Caso queira Doar🥺" src="https://img.shields.io/badge/Chaves+pix+abaixo+🔑-Caso+queira+Doar🥺-yellow?style=for-the-badge" />
     </button>
 </div>
 
 ```bash
-Chave Pix Do Venom 🔑 97984388524
-Chave Pix Da Kuromi 🔑 kuromimodder@gmail.com
+Pix Do Venom 🔑 97984388524
+Pix Da Kuromi 🔑 kuromimodder@gmail.com
 ```
