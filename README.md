@@ -19,7 +19,7 @@
 <div align="center">
     <p align="center">
         <h4 align="center">
-            <img src="https://i.ibb.co/Lg7Jvxq/Venom-Md.jpg" alt="VenomBot-md" width="300" />
+            <img src="https://i.ibb.co//Venom-Consult.jpg" alt="VenomBot-md" width="300" />
         </h4>
     </p>
 </div>
@@ -59,28 +59,22 @@ sh venom.sh
     </a>
 </div>
 <div>
-    <a href="https://www.instagram.com/venom">
+    <a href="https://www.instagram.com/venom_mods_ofc">
         <img title="Instagram Do Venom Mods" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </div>
 <div>
-    <a href="https://www.instagram.com/venom">
+    <a href="https://www.instagram.com/kuromi_mods">
         <img title="Instagram Da Kuromi Mods" src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </div>
 <div>
-    <button onclick="copyToClipboard('97984388524')">
-        <img title="Chave Pix" src="https://img.shields.io/badge/Chave%20Pix-97984388524-yellow?style=for-the-badge" />
+    <button onclick="copyToClipboard('Chaves pix abaixo 🔑')">
+        <img title="Caso queira Doar🥺" src="https://img.shields.io/badge/Chave%20Pix-97984388524-yellow?style=for-the-badge" />
     </button>
 </div>
 
-<script>
-function copyToClipboard(text) {
-  const el = document.createElement('textarea');
-  el.value = text;
-  document.body.appendChild(el);
-  el.select();
-  document.execCommand('copy');
-  document.body.removeChild(el);
-}
-</script>
+```bash
+Chave Pix Do Venom 🔑 97984388524
+Chave Pix Da Kuromi 🔑 kuromimodder@gmail.com
+```
