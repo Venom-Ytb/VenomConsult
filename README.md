@@ -56,6 +56,9 @@ cd VenomConsult
 sh instalar.sh
 ```
 ```bash
+termux-setup-storage
+```
+```bash
 node pasta.js
 ```
 ```bash
