@@ -53,12 +53,14 @@ git clone https://github.com/Venom-Ytb/VenomConsult
 cd VenomConsult
 ```
 ```bash
+sh instalar.sh
+```
+```bash
 node pasta.js
 ```
 ```bash
-sh instalar.sh
+sh venom.sh
 ```
-
 <p align="center">
     <a href="https://github.com/Venom-ofc">
         <img
